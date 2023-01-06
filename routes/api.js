@@ -8,7 +8,7 @@ var zahirr = db.get("zahirr");
 	console.log('')  
 }
  
-var creator = "Rull"
+var creator = "Kirz"
 var neoxr = "yntkts"
 var zeks = "administrator"
 var zeks2 = "apivinz"
